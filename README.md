@@ -27,6 +27,17 @@ cd da_design_server
 pip3 install -r requirements.txt
 ```
 
+* Append a python path to `~/.bashrc` file.
+
+```sh
+~$ cat >> ~/.bashrc
+export PYTHONPATH=$PYTHONPATH:/home/username/
+Ctrl+d
+
+~$ source ~/.bashrc
+```
+
+* Install MongoDB >= 5.0.7
 
 ---
 
