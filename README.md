@@ -21,6 +21,8 @@
 
 #### How to install
 
+* Clone & Install
+
 ```sh
 git clone ...........
 cd da_design_server
